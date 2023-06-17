@@ -51,6 +51,7 @@ The project is an exercise to builde a simple API with 1 endpoint using Rails th
 Click [here]( https://github.com/jodavid444/Hello-React-Frontend.git) to acess the frontend app built with react 
 
 
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running follow these simple example steps.
