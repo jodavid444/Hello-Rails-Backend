@@ -48,7 +48,7 @@ The project is an exercise to builde a simple API with 1 endpoint using Rails th
 
 ## Frontend app
 
-Click [here](https://github.com/jodavid444/Hello-rails-react.git) to acess the frontend app built with react 
+Click [here]( https://github.com/jodavid444/Hello-React-Frontend.git) to acess the frontend app built with react 
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -116,8 +116,7 @@ DATABASE_PASSWORD=
 
 Contributions, issues, and feature requests are welcome!
 
-feel free to check the [issue page](https://github.com/jodavid444/Hello-rails-react/issues)
-
+feel free to check the [issue page](https://github.com/jodavid444/Hello-Rails-Backend/issues)
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project kindly give it a star.
